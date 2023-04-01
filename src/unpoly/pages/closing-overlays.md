@@ -218,7 +218,7 @@ The option value should contain the name of one or more dismiss controls:
 
 | Method    | Effect                                           | Dismiss value |
 | --------- | ------------------------------------------------ | ------------- |
-| `key`     | Enables dimissing with `Escape` key              | `:key`        |
+| `key`     | Enables dismissing with `Escape` key             | `:key`        |
 | `outside` | Enables dismissing by clicking on the background | `:outside`    |
 | `button`  | Adds an "X" button to the layer                  | `:button`     |
 
